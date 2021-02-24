@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\Prototype1\bin\Debug\netcoreapp3.1\Prototype1.exe
+C:\Users\Fusionstak\source\repos\Prototype1\bin\Debug\netcoreapp3.1\Prototype1.deps.json
+C:\Users\Fusionstak\source\repos\Prototype1\bin\Debug\netcoreapp3.1\Prototype1.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\Prototype1\bin\Debug\netcoreapp3.1\Prototype1.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\Prototype1\bin\Debug\netcoreapp3.1\Prototype1.dll
+C:\Users\Fusionstak\source\repos\Prototype1\bin\Debug\netcoreapp3.1\Prototype1.pdb
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.dll
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.pdb
+C:\Users\Fusionstak\source\repos\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.genruntimeconfig.cache
